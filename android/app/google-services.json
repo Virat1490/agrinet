@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "512148472509",
-    "project_id": "agrinet-66009",
-    "storage_bucket": "agrinet-66009.appspot.com"
+    "project_number": "322670473834",
+    "project_id": "prj-1404-strivers-nsvc",
+    "storage_bucket": "prj-1404-strivers-nsvc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:512148472509:android:44f28235a571bbc3656dd4",
+        "mobilesdk_app_id": "1:322670473834:android:e236c3504e9f29e9695013",
         "android_client_info": {
           "package_name": "com.group4.AgriNet"
         }
       },
       "oauth_client": [
         {
-          "client_id": "512148472509-hd780ims8ndia4fcs4g87om89pfp8s0p.apps.googleusercontent.com",
+          "client_id": "322670473834-t31emnvq8n3s9e1hd9481geko3u9n24a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDegWRu_ibty9KO4o1qiLvjVpDjdMsXZIk"
+          "current_key": "AIzaSyCypdAJb8TLhmLxcX4F3gYKh2eW_JmwXps"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "512148472509-hd780ims8ndia4fcs4g87om89pfp8s0p.apps.googleusercontent.com",
+              "client_id": "322670473834-t31emnvq8n3s9e1hd9481geko3u9n24a.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
